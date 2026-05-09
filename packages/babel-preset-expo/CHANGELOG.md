@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Transform async functions in the Hermes V1 Babel profile to avoid native async/await value-loss regressions. ([#45592](https://github.com/expo/expo/issues/45592) by [@gronxb](https://github.com/gronxb))
+
 ### 💡 Others
 
 ## 56.0.5 — 2026-05-08
